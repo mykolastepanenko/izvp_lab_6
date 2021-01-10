@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 6.exe
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 6.deps.json
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 6.runtimeconfig.json
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 6.runtimeconfig.dev.json
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 6.dll
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\bin\Debug\netcoreapp3.1\471 Stepanenko Lab 6.pdb
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 6.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\obj\Debug\netcoreapp3.1\_471_Stepanenko_Lab_6.Form1.resources
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\obj\Debug\netcoreapp3.1\_471_Stepanenko_Lab_6.UserControl1.resources
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 6.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 6.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 6.AssemblyInfo.cs
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 6.dll
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 6.pdb
+C:\Users\USER\source\repos\471 Stepanenko Lab 6\471 Stepanenko Lab 6\obj\Debug\netcoreapp3.1\471 Stepanenko Lab 6.genruntimeconfig.cache
